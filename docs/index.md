@@ -14,7 +14,7 @@ This information is anonymous and unrelated to the user's identity, and Matrix C
 1. 我们也提供一次性买断的机制，价格为¥8元。
 
 Thank you for using our App. Before subscribing, please read the following terms:
-1. We also offer a one-time paid version for $1.49.
+1. We also offer a one-time paid version for $0.99 .
 
 ### 隐私政策 / Privacy Policy
 
